@@ -1,6 +1,6 @@
 cask "pulse-notch" do
-  version "0.1.6"
-  sha256 "2a4c765a9abc41bd2f34b934d0197bbe35b0e2df279565db50175e25e0c5bc97"
+  version "0.2.0"
+  sha256 "681b5653056bb9f3e20a6a7f0e38f28f04f312a46cfd0a0ba4b6513ac89dd967"
 
   url "https://github.com/paugarcia32/pulse-notch/releases/download/v#{version}/PulseNotch-#{version}.dmg"
   name "Pulse Notch"
